@@ -118,3 +118,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Misc
+.DS_Store
+*.pem
+
+# IDE
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

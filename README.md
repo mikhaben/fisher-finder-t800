@@ -1,7 +1,7 @@
 # Fisher-finder-t800
 
 ### Note:
-This is an experimental (learning only project) project aimed at creating a World of Warcraft fishing bot. It uses OpenCV for detecting fishing bobbers and splashes, and PyAutoGUI for simulating mouse and keyboard actions, automating the fishing process in the game.
+This is an experimental (learning only) project aimed at creating a World of Warcraft fishing bot. It uses OpenCV for detecting fishing bobbers and splashes, and PyAutoGUI for simulating mouse and keyboard actions, automating the fishing process in the game.
 
 Features:
 * Bobber and Splash Detection: Uses OpenCV for visual detection.
